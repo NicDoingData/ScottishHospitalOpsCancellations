@@ -21,6 +21,6 @@ Most of the code contained within the Notebook takes less than a minute to run a
 ## License, Acknowledgements, and Authors
 No other authors other than myself worked on this project. The data used for this project are collected and distributed by Public Health Scotland freely available [here](https://www.opendata.nhs.scot/dataset/cancelled-planned-operations/resource/bcc860a4-49f4-4232-a76b-f559cf6eb885) and [here](https://www.opendata.nhs.scot/en_GB/dataset/hospital-codes). As noted in the Notebook, Public Health Scotland already conducted some [analysis](https://publichealthscotland.scot/publications/cancelled-planned-operations/cancelled-planned-operations-month-ending-31-may-2022/) which is referred to in this project, but other than the linked summary, no other analyses was consulted before conducting my own.
 
-Acknowledgements must also go to Udacity, whose Nanodegree in Data Science provided the guidance which was applied for this project
+Acknowledgements must also go to Udacity, whose Nanodegree in Data Science provided the guidance which was applied for this project. Endless thanks and acknowledgement also to the documentation / tutorial for pandas, sci kit learn, and pyplot which I consulted a lot during this project.
 
 You are free to experiment and use this code as you see fit.
