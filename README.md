@@ -16,7 +16,7 @@ Besides this README file, the repository contains the two data files used for th
 A blog post summarising the main results is also available and can be found [here].
 
 ## Project Interactions
-The code contained within the Notebook takes less than a minute to run and can be run start to finish without concern. Explainations, Commentary and conclusions  are provided throughout the notebook.
+Most of the code contained within the Notebook takes less than a minute to run and can be run start to finish without concern. Attention: towards the bottom of the notebook there are multiple cells which are looping through models to find optimal combinations. These are very computationally expensive and can take multiple minutes to run. Explainations, Commentary and conclusions  are provided throughout the notebook.
 
 ## License, Acknowledgements, and Authors
 No other authors other than myself worked on this project. The data used for this project are collected and distributed by Public Health Scotland freely available [here](https://www.opendata.nhs.scot/dataset/cancelled-planned-operations/resource/bcc860a4-49f4-4232-a76b-f559cf6eb885) and [here](https://www.opendata.nhs.scot/en_GB/dataset/hospital-codes). As noted in the Notebook, Public Health Scotland already conducted some [analysis](https://publichealthscotland.scot/publications/cancelled-planned-operations/cancelled-planned-operations-month-ending-31-may-2022/) which is referred to in this project, but other than the linked summary, no other analyses was consulted before conducting my own.
