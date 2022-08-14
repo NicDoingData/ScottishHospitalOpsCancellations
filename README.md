@@ -13,7 +13,7 @@ In Scotland, capacity issues in the NHS had been on the news recently. This as w
 ## File Descriptions
 Besides this README file, the repository contains the two data files used for this project, as well as the Notebook which contains all code used for this project. 
 
-A blog post summarising the main results is also available and can be found [here].
+A blog post summarising the main results is also available and can be found [here](https://medium.com/@nic.a.kirsch/will-your-next-operation-be-cancelled-because-your-hospital-is-too-full-e9b977116e0).
 
 ## Project Interactions
 Most of the code contained within the Notebook takes less than a minute to run and can be run start to finish without concern. Attention: towards the bottom of the notebook there are multiple cells which are looping through models to find optimal combinations. These are quite computationally expensive and can take multiple minutes to run. Explainations, Commentary and conclusions  are provided throughout the notebook.
